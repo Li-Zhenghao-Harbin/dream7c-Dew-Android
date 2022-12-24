@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/settings"
+        android:title="设置"
+        android:icon="@mipmap/ic_settings_round"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/menu_about"
+        android:icon="@mipmap/ic_about"
+        app:showAsAction="always" />
+</menu>

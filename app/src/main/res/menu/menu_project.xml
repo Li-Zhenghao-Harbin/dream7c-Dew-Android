@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add"
+        android:title="@string/menu_add"
+        android:icon="@mipmap/ic_add_problem_round"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/remove"
+        android:title="@string/menu_remove"
+        android:icon="@mipmap/ic_remove_problem_round"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/save"
+        android:title="@string/menu_save"
+        android:icon="@mipmap/ic_save_project_round"
+        app:showAsAction="always" />
+</menu>

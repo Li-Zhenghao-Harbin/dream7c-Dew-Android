@@ -1,0 +1,26 @@
+<resources>
+    <!--    app-->
+    <string name="app_name">寒露</string>
+    <!--    MainActivity-->
+    <!--    menu-->
+    <string name="tx_settings">设置</string>
+    <string name="menu_about">关于</string>
+    <!--    textView-->
+    <string name="tx_search">搜索</string>
+    <!--    ProjectActivity-->
+    <!--    menu-->
+    <string name="tx_question">题干</string>
+    <string name="tx_answer">答案</string>
+    <string name="menu_add">添加</string>
+    <string name="menu_remove">移除</string>
+    <string name="menu_save">保存</string>
+    <!--    DisplayActivity-->
+    <!--menu-->
+    <string name="menu_process">显示/隐藏进度</string>
+    <string name="menu_help">帮助</string>
+    <!--    SettingActivity-->
+    <string name="settings_font_size">20dp</string>
+    <string name="tx_font_size">字体大小</string>
+    <string name="tx_display_type">默认类型</string>
+    <string name="tx_show_process">显示进度</string>
+</resources>
